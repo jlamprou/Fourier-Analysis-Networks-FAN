@@ -31,7 +31,7 @@ Here's a basic example of how to use the FAN layer:
 
 ```python
 import torch
-from models.fan import FANLayer
+from fan import FANLayer
 
 # Initialize a FAN layer
 input_dim = 64
